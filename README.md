@@ -3,7 +3,7 @@ A real-time robust monocular visual SLAM system for fisheye cameras.
 
 We develop an improved monocular visual SLAM system by using omnidirectional cameras. Our method extends the [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2) framework with the enhanced unified camera model (EUCM) as a projection function, which can be applied to catadioptric systems and wide-angle fisheye cameras. Without rectifying or cropping the input images, the proposed system can use the full area of the images even with strong distortion.
 
-We obtained the camera intrinsic parameters by using the [Kalibr](https://github.com/ethz-asl/kalibr) calibration toolbox.
+We obtained the camera intrinsic parameters of EUCM by using the [Kalibr](https://github.com/ethz-asl/kalibr) calibration toolbox.
 
 Tested on the [TUM VI benchmark](https://vision.in.tum.de/data/datasets/visual-inertial-dataset).
 
