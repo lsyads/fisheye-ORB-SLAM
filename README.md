@@ -22,7 +22,7 @@ Execute the following command. Change `fisheye_eucm_camX.yaml` to fisheye_eucm_c
 
 ### The paper is being submitted:
 
-Shuoyuan Liu, Peng Guo, Lihui Feng and Aiying Yang. “Accurate and Robust Monocular SLAM with Omnidirectional Cameras”
+Shuoyuan Liu, Peng Guo, Lihui Feng and Aiying Yang. “Accurate and Robust Monocular SLAM with Omnidirectional Cameras” (being submitted to sensors)
 
 *****
 
