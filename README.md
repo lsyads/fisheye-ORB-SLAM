@@ -20,9 +20,9 @@ Execute the following command. Change `fisheye_eucm_camX.yaml` to fisheye_eucm_c
 ./Examples/Monocular/mono_tum Vocabulary/ORBvoc.bin Examples/Monocular/fisheye_eucm_camX.yaml PATH_TO_SEQUENCE_FOLDER
 ```
 
-### The paper is being submitted:
+### The paper has been submitted:
 
-Shuoyuan Liu, Peng Guo, Lihui Feng and Aiying Yang. “Accurate and Robust Monocular SLAM with Omnidirectional Cameras” (being submitted to sensors)
+Shuoyuan Liu, Peng Guo, Lihui Feng and Aiying Yang. “Accurate and Robust Monocular SLAM with Omnidirectional Cameras” (submitted to sensors)
 
 *****
 
