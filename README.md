@@ -7,6 +7,8 @@ We obtained the camera intrinsic parameters of EUCM by using the [Kalibr](https:
 
 Tested on the [TUM VI benchmark](https://vision.in.tum.de/data/datasets/visual-inertial-dataset).
 
+Video Demo: https://www.bilibili.com/video/av64280694
+
 # Building
 ```
 cd fisheye-ORB-SLAM
