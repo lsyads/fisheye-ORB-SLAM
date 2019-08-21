@@ -13,6 +13,10 @@ Video Demo: https://www.bilibili.com/video/av64280694
 Figure: Estimated trajectories. The ground truth is available for the start and end segments in the same room. The error of all systems is very small in the start segment, but our system suffer less drift than other systems in the end segment 
 Dataset: (Left) corridor4; (Right) magistrale2.
 
+### The paper has been submitted:
+
+Shuoyuan Liu, Peng Guo, Lihui Feng and Aiying Yang. “Accurate and Robust Monocular SLAM with Omnidirectional Cameras” (submitted to sensors)
+
 # Building
 ```
 cd fisheye-ORB-SLAM
@@ -25,10 +29,6 @@ Execute the following command. Change `fisheye_eucm_camX.yaml` to fisheye_eucm_c
 ```
 ./Examples/Monocular/mono_tum Vocabulary/ORBvoc.bin Examples/Monocular/fisheye_eucm_camX.yaml PATH_TO_SEQUENCE_FOLDER
 ```
-
-### The paper has been submitted:
-
-Shuoyuan Liu, Peng Guo, Lihui Feng and Aiying Yang. “Accurate and Robust Monocular SLAM with Omnidirectional Cameras” (submitted to sensors)
 
 *****
 
