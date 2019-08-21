@@ -9,6 +9,10 @@ Tested on the [TUM VI benchmark](https://vision.in.tum.de/data/datasets/visual-i
 
 Video Demo: https://www.bilibili.com/video/av64280694
 
+![image](https://github.com/lsyads/fisheye-ORB-SLAM/blob/master/result.JPG)
+Figure: Estimated trajectories. The ground truth is available for the start and end segments in the same room. The error of all systems is very small in the start segment, but our system suffer less drift than other systems in the end segment 
+Dataset: (Left) corridor4; (Right) magistrale2.
+
 # Building
 ```
 cd fisheye-ORB-SLAM
